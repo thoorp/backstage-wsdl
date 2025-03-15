@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-wsdl
+  annotations:
+    github.com/project-slug: thoorp/backstage-wsdl
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
